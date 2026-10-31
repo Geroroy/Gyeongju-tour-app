@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 임시 런처 아이콘: 원형 배경 + 배지 리본. 디자인 확정 후 교체. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+    <path
+        android:fillColor="#1F3A5F"
+        android:pathData="M24,24m-24,0a24,24 0,1 1,48 0a24,24 0,1 1,-48 0" />
+    <path
+        android:fillColor="#F2B950"
+        android:pathData="M24,10m-10,0a10,10 0,1 1,20 0a10,10 0,1 1,-20 0" />
+    <path
+        android:fillColor="#E0E6EF"
+        android:pathData="M16,20 L21,20 L24,40 L18,36 Z" />
+    <path
+        android:fillColor="#E0E6EF"
+        android:pathData="M32,20 L27,20 L24,40 L30,36 Z" />
+    <path
+        android:fillColor="#F2B950"
+        android:pathData="M24,20m-8,0a8,8 0,1 1,16 0a8,8 0,1 1,-16 0" />
+</vector>
